@@ -4,14 +4,14 @@ This repository showcases projects and case studies completed as part of the [Da
 
 ---
 ## ✨ About Me
-Hi, I'm Pink! A Civil and GIS Engineer transitioning into data science and analytics. I have hands-on experience with geospatial data, Python programming, and remote sensing applications.
+Hi, I'm CJ! A Civil and GIS Engineer transitioning into data science and analytics. I have hands-on experience with geospatial data, Python programming and remote sensing applications.
 
 ---
 ## 🧠 Contents
 
 - **Case Studies**: Practical exercises and analyses.
 - **Projects**: Hands-on projects applying data science techniques.
-- **Tools Used**: Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL, and more.
+- **Tools Used**: Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL and more.
 
 ---
 ## 📘 Case Study
