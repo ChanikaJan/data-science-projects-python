@@ -1,6 +1,6 @@
 # Data Scientist Track – DataCamp (Python)
 
-This repository showcases projects and case studies completed as part of the [Associate Data Scientist Career Track](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python) on DataCamp.
+This repository showcases projects and case studies completed as part of the [Data Scientist in Python](https://www.datacamp.com/tracks/data-scientist-in-python) on DataCamp.
 
 ---
 ## ✨ About Me
@@ -17,13 +17,13 @@ Hi, I'm Pink! A Civil and GIS Engineer transitioning into data science and analy
 ## 📘 Case Study
 | Case Study | Description |
 |:------------ |:------------ |
-| [Case 01 - Hacker Statistics](CaseStudy/CaseStudy_01) | Exploring randomness and game simulation in Python. |
+| [Case 01 - Hacker Statistics](CaseStudy/CaseStudy_01/CaseStudy01_HackerStatistics.ipynb) | Exploring randomness and game simulation in Python. |
 
 ---
 ## 📗 Projects
 | Project Name | Description |
 |:------------ |:------------ |
-| [Project 01 - Investigating Netflix Movies](Projects/Project-01-Project-Name/) | Applying foundational Python skills in data manipulation and visualization. |
+| [Project 01 - Investigating Netflix Movies](Projects/Project_01/Project_01_Investigating_Netflix_Movies.ipynb) | Applying foundational Python skills in data manipulation and visualization. |
 
 ---
 ## 🙏 Credits
