@@ -17,7 +17,7 @@ Hi, I'm Pink! A Civil and GIS Engineer transitioning into data science and analy
 ## 📘 Case Study
 | Case Study | Description |
 |:------------ |:------------ |
-| [Case 01 - Hacker Statistics](Projects/Project-01-Project-Name/) | Exploring randomness and game simulation in Python. |
+| [Case 01 - Hacker Statistics](CaseStudy/CaseStudy_01) | Exploring randomness and game simulation in Python. |
 
 ---
 ## 📗 Projects
