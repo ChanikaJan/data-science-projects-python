@@ -24,6 +24,7 @@ Hi, I'm CJ! A Civil and GIS Engineer transitioning into data science and analyti
 | Project Name | Description |
 |:------------ |:------------ |
 | [Project 01 - Investigating Netflix Movies](Projects/Project_01/Project_01_Investigating_Netflix_Movies.ipynb) | Applying foundational Python skills in data manipulation and visualization. |
+| [Project 02 - Exploring NYC Public School Test Result Scores](Projects/Project_02/Project_02_NYCPublicSchool_TestResultScores.ipynb) | Data manipulation and visualization with Pandas. |
 
 ---
 ## 🙏 Credits
